@@ -1,18 +1,3 @@
-# Curriculum Roadmap
-
----
-
-#### Tools
-
-- [ ] ecmascript
-- [ ] node.js
-  - [ ] yarn or npm
-- [ ] Babel
-- [ ] WebPack
-- [ ] Testing with Jest
-
----
-
 ### Concepts
 
 - JSX
